@@ -8,5 +8,8 @@ public class Main {
         System.out.println("Hello from Intellij to GitHub");
         Person person = new Person("William H", "Gates", 65);
         System.out.println(person);
+
+        System.out.println("My Commit into my new branch");
+
     }
 }
